@@ -1,0 +1,7 @@
+ayfer_butik_site/
+  ├── pages/
+      └── index.js
+  ├── public/
+  ├── styles/
+  ├── tailwind.config.js
+  ├── package.json
