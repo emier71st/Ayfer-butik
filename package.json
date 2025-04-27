@@ -1,0 +1,20 @@
+
+{
+  "name": "ayfer_butik_site",
+  "version": "1.0.0",
+  "description": "A stylish boutique website",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^12.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "tailwindcss": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC"
+}
